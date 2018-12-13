@@ -3,4 +3,6 @@ Minority oversampling for imbalanced ordinal regression
 
 The implementation for the oversampling algorithm SMOR
 
-You can send an e-mail (zhutuanfei@hnu.edu.cn or zhutuanfei@163.com) to me for acquiring the decompression password.
+The decompression password is ztf61117891.
+
+SMOM is the implementation of the oversampling algorithm SMOM. You can read the paper "synthetic minority oversampling technique for multiclass imbalance problem"  for more details.
